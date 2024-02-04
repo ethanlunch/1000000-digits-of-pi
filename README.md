@@ -1,1 +1,1 @@
-# 1000000-digits-of-pi
+# A-few-digits-of-pi
